@@ -29,13 +29,13 @@ function App() {
 
   return (
    <>
-   {/* <h1>{count}</h1>
+   <h1>{count}</h1>
   <button onClick={()=>{
     setCount(count+1)
   }}>Counter barane wala</button>
   <button onClick={()=>{
     setCount(count-1)
-  }}>Counter ghatane wala</button> */}
+  }}>Counter ghatane wala</button>
   <br></br>
   <button onClick={toggleFunction}>timer:</button>
   <h1>{timer}</h1>
